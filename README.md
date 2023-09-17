@@ -1,4 +1,5 @@
-# MIDS_W266_NLP_Project
+# Unveiling the Verdict - They Said We Did Good (Or Bad?) 
+## Sentiment Analysis Using BERT and Word2Vec with RNN-based Classification
 
 Final project of MIDS - UC Berkeley DATASCI 266 Natural Language Processing with Deep Learning. 
 
